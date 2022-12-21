@@ -85,7 +85,7 @@ int main(){
 		getline(cin, a[i].ten);
 		getline(cin, a[i].lop);
 		getline(cin, a[i].ns);
-        chuanHoa(a[i].ns);
+                chuanHoa(a[i].ns);
 		cin >> a[i].gpa;
 	}
 	for(int i=0;i<n;i++){
